@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b59ebd47c534f8da68082ede43e2bec, type: 3}
+  m_Name: BusinessConfiguration
+  m_EditorClassIdentifier: 
+  _business:
+  - BusinessType: 0
+    BusinessName: Lenta
+    IncomeGenerationTime: 0
+    BaseCost: 3
+    BaseIncome: 3
+    CurrentIncome: 0
+    IncomeGenerationInterval: 3
+    Level: 1
+    LevelCost: 3
+    Upgrades:
+    - UpgradeNames: Super
+      UpgradeIsBuy: 0
+      UpgradesCost: 50
+      UpgradesIncomeBonus: 50
+    - UpgradeNames: Mega
+      UpgradeIsBuy: 0
+      UpgradesCost: 400
+      UpgradesIncomeBonus: 100
+  - BusinessType: 1
+    BusinessName: 
+    IncomeGenerationTime: 0
+    BaseCost: 40
+    BaseIncome: 40
+    CurrentIncome: 0
+    IncomeGenerationInterval: 6
+    Level: 0
+    LevelCost: 40
+    Upgrades:
+    - UpgradeNames: Comfort
+      UpgradeIsBuy: 0
+      UpgradesCost: 1200
+      UpgradesIncomeBonus: 100
+    - UpgradeNames: Luxury
+      UpgradeIsBuy: 0
+      UpgradesCost: 4000
+      UpgradesIncomeBonus: 200
+  - BusinessType: 2
+    BusinessName: 
+    IncomeGenerationTime: 0
+    BaseCost: 200
+    BaseIncome: 200
+    CurrentIncome: 0
+    IncomeGenerationInterval: 10
+    Level: 0
+    LevelCost: 20
+    Upgrades:
+    - UpgradeNames: Good
+      UpgradeIsBuy: 0
+      UpgradesCost: 6000
+      UpgradesIncomeBonus: 100
+    - UpgradeNames: Best
+      UpgradeIsBuy: 0
+      UpgradesCost: 20000
+      UpgradesIncomeBonus: 150
+  - BusinessType: 3
+    BusinessName: 
+    IncomeGenerationTime: 0
+    BaseCost: 1000
+    BaseIncome: 1000
+    CurrentIncome: 0
+    IncomeGenerationInterval: 17
+    Level: 0
+    LevelCost: 1000
+    Upgrades:
+    - UpgradeNames: Train
+      UpgradeIsBuy: 0
+      UpgradesCost: 15000
+      UpgradesIncomeBonus: 100
+    - UpgradeNames: Plane
+      UpgradeIsBuy: 0
+      UpgradesCost: 50000
+      UpgradesIncomeBonus: 200
+  - BusinessType: 4
+    BusinessName: 
+    IncomeGenerationTime: 0
+    BaseCost: 5000
+    BaseIncome: 5000
+    CurrentIncome: 0
+    IncomeGenerationInterval: 30
+    Level: 0
+    LevelCost: 5000
+    Upgrades:
+    - UpgradeNames: Expensive
+      UpgradeIsBuy: 0
+      UpgradesCost: 100000
+      UpgradesIncomeBonus: 200
+    - UpgradeNames: Luxury
+      UpgradeIsBuy: 0
+      UpgradesCost: 500000
+      UpgradesIncomeBonus: 400

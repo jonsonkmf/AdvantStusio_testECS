@@ -1,0 +1,129 @@
+{
+    "Items": [
+        {
+            "BusinessType": 0,
+            "BusinessName": "lenta",
+            "IncomeGenerationTime": 0.6424800157546997,
+            "BaseCost": 3.0,
+            "BaseIncome": 3.0,
+            "CurrentIncome": 9.0,
+            "IncomeGenerationInterval": 3.0,
+            "Level": 3,
+            "LevelCost": 12.0,
+            "Upgrades": [
+                {
+                    "UpgradeNames": "Super",
+                    "UpgradeIsBuy": false,
+                    "UpgradesCost": 50.0,
+                    "UpgradesIncomeBonus": 50.0
+                },
+                {
+                    "UpgradeNames": "Mega",
+                    "UpgradeIsBuy": false,
+                    "UpgradesCost": 400.0,
+                    "UpgradesIncomeBonus": 100.0
+                }
+            ]
+        },
+        {
+            "BusinessType": 1,
+            "BusinessName": "uber",
+            "IncomeGenerationTime": 0.0,
+            "BaseCost": 40.0,
+            "BaseIncome": 40.0,
+            "CurrentIncome": 0.0,
+            "IncomeGenerationInterval": 6.0,
+            "Level": 0,
+            "LevelCost": 40.0,
+            "Upgrades": [
+                {
+                    "UpgradeNames": "Comfort",
+                    "UpgradeIsBuy": false,
+                    "UpgradesCost": 1200.0,
+                    "UpgradesIncomeBonus": 100.0
+                },
+                {
+                    "UpgradeNames": "Luxury",
+                    "UpgradeIsBuy": false,
+                    "UpgradesCost": 4000.0,
+                    "UpgradesIncomeBonus": 200.0
+                }
+            ]
+        },
+        {
+            "BusinessType": 2,
+            "BusinessName": "starbucks",
+            "IncomeGenerationTime": 0.0,
+            "BaseCost": 200.0,
+            "BaseIncome": 200.0,
+            "CurrentIncome": 0.0,
+            "IncomeGenerationInterval": 10.0,
+            "Level": 0,
+            "LevelCost": 20.0,
+            "Upgrades": [
+                {
+                    "UpgradeNames": "Good",
+                    "UpgradeIsBuy": false,
+                    "UpgradesCost": 6000.0,
+                    "UpgradesIncomeBonus": 100.0
+                },
+                {
+                    "UpgradeNames": "Best",
+                    "UpgradeIsBuy": false,
+                    "UpgradesCost": 20000.0,
+                    "UpgradesIncomeBonus": 150.0
+                }
+            ]
+        },
+        {
+            "BusinessType": 3,
+            "BusinessName": "aviasales",
+            "IncomeGenerationTime": 0.0,
+            "BaseCost": 1000.0,
+            "BaseIncome": 1000.0,
+            "CurrentIncome": 0.0,
+            "IncomeGenerationInterval": 17.0,
+            "Level": 0,
+            "LevelCost": 1000.0,
+            "Upgrades": [
+                {
+                    "UpgradeNames": "Train",
+                    "UpgradeIsBuy": false,
+                    "UpgradesCost": 15000.0,
+                    "UpgradesIncomeBonus": 100.0
+                },
+                {
+                    "UpgradeNames": "Plane",
+                    "UpgradeIsBuy": false,
+                    "UpgradesCost": 50000.0,
+                    "UpgradesIncomeBonus": 200.0
+                }
+            ]
+        },
+        {
+            "BusinessType": 4,
+            "BusinessName": "tesla",
+            "IncomeGenerationTime": 0.0,
+            "BaseCost": 5000.0,
+            "BaseIncome": 5000.0,
+            "CurrentIncome": 0.0,
+            "IncomeGenerationInterval": 30.0,
+            "Level": 0,
+            "LevelCost": 5000.0,
+            "Upgrades": [
+                {
+                    "UpgradeNames": "Expensive",
+                    "UpgradeIsBuy": false,
+                    "UpgradesCost": 100000.0,
+                    "UpgradesIncomeBonus": 200.0
+                },
+                {
+                    "UpgradeNames": "Luxury",
+                    "UpgradeIsBuy": false,
+                    "UpgradesCost": 500000.0,
+                    "UpgradesIncomeBonus": 400.0
+                }
+            ]
+        }
+    ]
+}
